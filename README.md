@@ -11,6 +11,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+<a href="https://github.com/pravsgajul/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pravsgajul&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/pravsgajul/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pravsgajul&repo=convoychat" />
+</a>
+
 
 ![Pravallika's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravsgajul&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravsgajul&layout=compact&langs_count=8&theme=synthwave)](https://github.com/pravsgajul/github-readme-stats)
