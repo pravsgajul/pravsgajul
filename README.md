@@ -13,7 +13,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=pravsgajul&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=pravsgajul&show_icons=true" />
+
 </picture>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
