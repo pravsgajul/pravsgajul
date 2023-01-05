@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on Data science related projects.
 - 📫 You can email me at pravgajul@gmail.com
 
+
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=pravsgajul&show_icons=true&theme=dark"
@@ -11,17 +18,10 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=pravsgajul&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
 />
-
+<img src="https://github-readme-stats.vercel.app/api?username=pravsgajul&show_icons=true" />
 </picture>
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pravsgajul&count_private=true&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravsgajul)](https://github.com/pravsgajul/github-readme-stats)
 <!---
 pravsgajul/pravsgajul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
