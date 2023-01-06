@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Pravallika Gajul
-- 👀 I’m interested in Artificial Intelligence, Cloud, NLP.
-- 🌱 I’m currently third year in Data Science.
-- 💞️ I’m looking to collaborate on Data science related projects.
-- 📫 You can email me at pravgajul@gmail.com
+<h1 align="center">Hi, I’m Pravallika Gajul</h1>
+<h3 align = "center">I’m interested in Artificial Intelligence, Cloud, NLP. I’m currently third year in Data Science. I’m looking to collaborate on Data science related projects. You can email me at pravgajul@gmail.com</h3>
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pravsgajul)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravallika-gajul/)
