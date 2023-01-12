@@ -17,3 +17,4 @@
 pravsgajul/pravsgajul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Banner](https://user-images.githubusercontent.com/83573182/211997776-73e06d5e-b77c-4195-98d9-1cc5eefb7383.jpg)
