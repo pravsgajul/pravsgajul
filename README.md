@@ -4,6 +4,7 @@
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pravsgajul)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravallika-gajul/)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pravsgajul)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=[pravsgajul]&theme=synthwave"/>
 
@@ -14,6 +15,7 @@
 
 ![Pravallika's GitHub stats](https://github-readme-stats.vercel.app/api?username=[pravsgajul]&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravsgajul&layout=compact)](https://github.com/pravsgajul/github-readme-stats)
+
 <!---
 pravsgajul/pravsgajul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
