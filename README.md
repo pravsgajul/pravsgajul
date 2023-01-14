@@ -16,8 +16,8 @@
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-![Pravallika's GitHub stats](https://github-readme-stats.vercel.app/api?username=[pravsgajul]&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravsgajul&layout=compact&count=8)](https://github.com/pravsgajul/github-readme-stats)
+![Pravallika's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravsgajul&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravsgajul&layout=compact)](https://github.com/pravsgajul/github-readme-stats)
 
 <!---
 pravsgajul/pravsgajul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
