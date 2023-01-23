@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/pravsgajul)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[pravsgajul]&theme=synthwave"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[pravsgajul]&theme=synthwave">
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
