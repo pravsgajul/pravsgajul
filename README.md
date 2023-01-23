@@ -1,10 +1,12 @@
 ![Banner](https://user-images.githubusercontent.com/83573182/211997776-73e06d5e-b77c-4195-98d9-1cc5eefb7383.jpg)
 <h1 align="center">Hi, I’m Pravallika Gajul</h1>
 <h3 align = "center">I’m interested in Artificial Intelligence, Cloud, NLP. I’m currently third year in Data Science. I’m looking to collaborate on Data science related projects. You can email me at pravgajul@gmail.com</h3>
-
+<p align = "center">
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pravsgajul)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravallika-gajul/)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pravsgajul)
+[![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/pravsgajul)
+</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=[pravsgajul]&theme=synthwave"/>
 
