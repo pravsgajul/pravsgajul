@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/83573182/211997776-73e06d5e-b77c-4195-98d9-1cc5eefb7383.jpg)
 <h1 align="center">Hi, I’m Pravallika Gajul</h1>
-<h3 align = "center">I’m interested in Artificial Intelligence, Cloud, NLP and Computer Vision. I’m currently third year in Data Science. I’m looking to collaborate on Data science related projects.</h3>
+<h3 align = "center">I'm just a normal woman in STEM.</h3>
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&align="center")](https://medium.com/@pravsgajul)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravallika-gajul/)
